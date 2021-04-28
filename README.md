@@ -1,3 +1,4 @@
+Could you separate different magazines into different repos?
 # 经济学人、纽约客、自然等外刊杂志下载
 ---------------------
 
